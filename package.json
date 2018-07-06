@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "start": "parcel index.pug",
+    "build": "parcel build index.pug"
+  },
+  "devDependencies": {
+    "autoprefixer": "^8.6.5",
+    "parcel-bundler": "^1.9.4",
+    "postcss-modules": "^1.1.0",
+    "pug": "^2.0.3"
+  },
+  "dependencies": {
+    "vue": "^2.5.16"
+  }
+}
